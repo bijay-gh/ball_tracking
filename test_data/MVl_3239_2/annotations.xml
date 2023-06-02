@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>42</id>
+      <size>33</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-05-15 04:03:42.725606+00:00</created>
+      <updated>2023-05-15 08:17:00.769142+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>32</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>42</id>
+          <start>0</start>
+          <stop>32</stop>
+          <url>http://localhost:8080/api/jobs/42</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>vijay.gh74</username>
+        <email>vijay.gh74@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>ball</name>
+          <color>#24b353</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-05-15 08:17:16.953017+00:00</dumped>
+  </meta>
+  <image id="0" name="MVl_3239_2_frame7.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="846.25" ytl="243.01" xbr="875.83" ybr="272.58" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="MVl_3239_2_frame30.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1083.58" ytl="335.04" xbr="1093.48" ybr="345.14" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="MVl_3239_2_frame6.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="795.42" ytl="245.91" xbr="831.11" ybr="271.70" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="MVl_3239_2_frame21.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1045.09" ytl="347.70" xbr="1056.61" ybr="359.36" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="MVl_3239_2_frame28.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1075.71" ytl="365.90" xbr="1084.35" ybr="374.68" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="MVl_3239_2_frame1.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="56.74" ytl="374.61" xbr="156.24" ybr="455.93" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="MVl_3239_2_frame11.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="939.04" ytl="261.74" xbr="960.89" ybr="281.81" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="MVl_3239_2_frame20.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1037.02" ytl="336.18" xbr="1048.40" ybr="347.70" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="MVl_3239_2_frame3.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="421.05" ytl="290.62" xbr="494.51" ybr="354.76" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="MVl_3239_2_frame25.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1063.90" ytl="384.80" xbr="1074.50" ybr="394.70" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="MVl_3239_2_frame4.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="606.23" ytl="257.95" xbr="662.47" ybr="305.93" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="MVl_3239_2_frame23.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1050.99" ytl="359.60" xbr="1062.51" ybr="371.41" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="MVl_3239_2_frame33.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1091.92" ytl="313.80" xbr="1102.63" ybr="323.65" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="MVl_3239_2_frame31.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1088.06" ytl="324.17" xbr="1099.12" ybr="334.02" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="MVl_3239_2_frame8.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="848.01" ytl="243.28" xbr="875.53" ybr="269.51" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="MVl_3239_2_frame16.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1007.77" ytl="302.95" xbr="1019.77" ybr="315.55" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="MVl_3239_2_frame18.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1018.69" ytl="315.31" xbr="1030.45" ybr="326.11" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="MVl_3239_2_frame15.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="994.34" ytl="292.86" xbr="1008.60" ybr="306.11" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="MVl_3239_2_frame26.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1070.75" ytl="385.29" xbr="1079.96" ybr="392.49" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="MVl_3239_2_frame12.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="962.37" ytl="272.97" xbr="978.79" ybr="287.48" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="MVl_3239_2_frame24.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1057.58" ytl="371.98" xbr="1070.03" ybr="383.04" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="MVl_3239_2_frame10.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="919.09" ytl="257.41" xbr="937.66" ybr="274.40" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="MVl_3239_2_frame19.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1027.38" ytl="325.09" xbr="1039.90" ybr="337.18" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="MVl_3239_2_frame9.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="888.27" ytl="251.22" xbr="908.86" ybr="270.66" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="MVl_3239_2_frame17.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1018.45" ytl="314.58" xbr="1031.26" ybr="326.24" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="MVl_3239_2_frame27.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1075.90" ytl="367.50" xbr="1084.40" ybr="374.50" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="MVl_3239_2_frame32.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1092.64" ytl="314.91" xbr="1101.34" ybr="322.51" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="MVl_3239_2_frame29.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1079.74" ytl="351.11" xbr="1088.44" ybr="358.11" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="MVl_3239_2_frame5.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="723.11" ytl="246.97" xbr="760.14" ybr="285.79" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="MVl_3239_2_frame2.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="423.66" ytl="289.92" xbr="496.47" ybr="349.36" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="MVl_3239_2_frame14.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="978.94" ytl="281.59" xbr="994.29" ybr="297.14" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="MVl_3239_2_frame13.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="963.39" ytl="272.26" xbr="979.15" ybr="287.60" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="MVl_3239_2_frame22.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="1051.72" ytl="358.93" xbr="1064.37" ybr="370.34" z_order="0">
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>29</id>
+      <size>40</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-05-15 03:51:01.195284+00:00</created>
+      <updated>2023-05-15 15:37:23.391267+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>39</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>29</id>
+          <start>0</start>
+          <stop>39</stop>
+          <url>http://localhost:8080/api/jobs/29</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>vijay.gh74</username>
+        <email>vijay.gh74@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>ball</name>
+          <color>#24b353</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-05-15 15:37:29.259039+00:00</dumped>
+  </meta>
+  <image id="0" name="MVl_3232_2_frame1.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="15.96" ytl="317.81" xbr="97.54" ybr="394.22" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="MVl_3232_2_frame10.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="775.36" ytl="371.37" xbr="796.19" ybr="391.70" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="MVl_3232_2_frame11.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="802.47" ytl="383.67" xbr="819.53" ybr="402.74" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="MVl_3232_2_frame12.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="804.47" ytl="385.31" xbr="818.93" ybr="400.64" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="MVl_3232_2_frame13.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="823.30" ytl="393.21" xbr="843.38" ybr="415.79" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="MVl_3232_2_frame14.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="844.42" ytl="409.11" xbr="861.77" ybr="425.05" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="MVl_3232_2_frame15.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="860.31" ytl="423.80" xbr="876.25" ybr="435.19" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="MVl_3232_2_frame16.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="877.41" ytl="436.88" xbr="886.91" ybr="447.88" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="MVl_3232_2_frame17.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="872.29" ytl="434.15" xbr="889.91" ybr="450.58" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="MVl_3232_2_frame18.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="887.82" ytl="447.55" xbr="900.62" ybr="460.45" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="MVl_3232_2_frame19.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="897.22" ytl="437.05" xbr="909.62" ybr="449.45" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="MVl_3232_2_frame2.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="17.91" ytl="320.09" xbr="89.98" ybr="381.02" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="MVl_3232_2_frame20.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="905.26" ytl="407.77" xbr="916.64" ybr="418.71" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="MVl_3232_2_frame21.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="911.43" ytl="381.69" xbr="922.66" ybr="392.49" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="MVl_3232_2_frame22.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="913.00" ytl="382.00" xbr="921.30" ybr="391.50" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="MVl_3232_2_frame23.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="918.40" ytl="359.82" xbr="928.77" ybr="369.98" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="MVl_3232_2_frame24.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="925.64" ytl="340.17" xbr="934.04" ybr="349.47" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="MVl_3232_2_frame25.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="930.17" ytl="322.85" xbr="942.17" ybr="333.35" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="MVl_3232_2_frame26.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="936.89" ytl="310.51" xbr="947.99" ybr="320.61" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="MVl_3232_2_frame27.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="935.45" ytl="310.18" xbr="948.41" ybr="320.86" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="MVl_3232_2_frame28.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="941.66" ytl="297.51" xbr="951.98" ybr="308.91" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="MVl_3232_2_frame29.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="947.30" ytl="288.99" xbr="956.78" ybr="299.67" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="MVl_3232_2_frame3.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="299.20" ytl="310.16" xbr="345.64" ybr="361.56" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="MVl_3232_2_frame30.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="952.52" ytl="283.18" xbr="959.36" ybr="290.26" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="MVl_3232_2_frame31.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="956.84" ytl="279.82" xbr="964.40" ybr="286.78" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="MVl_3232_2_frame32.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="956.36" ytl="278.50" xbr="964.76" ybr="286.30" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="MVl_3232_2_frame33.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="953.60" ytl="267.94" xbr="963.92" ybr="278.62" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="MVl_3232_2_frame34.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="937.24" ytl="251.93" xbr="951.67" ybr="264.87" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="MVl_3232_2_frame35.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="922.06" ytl="231.77" xbr="935.50" ybr="248.20" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="MVl_3232_2_frame36.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="907.37" ytl="224.37" xbr="918.98" ybr="234.11" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="MVl_3232_2_frame37.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="899.56" ytl="219.45" xbr="916.46" ybr="236.61" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="MVl_3232_2_frame38.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="893.49" ytl="211.53" xbr="902.49" ybr="220.65" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="MVl_3232_2_frame39.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="872.35" ytl="195.28" xbr="883.99" ybr="209.01" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="MVl_3232_2_frame4.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="459.56" ytl="314.23" xbr="500.57" ybr="358.81" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="MVl_3232_2_frame40.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="857.83" ytl="187.35" xbr="868.20" ybr="196.34" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="MVl_3232_2_frame5.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="564.02" ytl="328.43" xbr="604.27" ybr="356.91" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="MVl_3232_2_frame6.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="642.66" ytl="335.86" xbr="669.90" ybr="364.34" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="MVl_3232_2_frame7.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="643.28" ytl="332.76" xbr="671.14" ybr="367.44" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="MVl_3232_2_frame8.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="700.24" ytl="345.77" xbr="732.44" ybr="375.49" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="MVl_3232_2_frame9.jpg" width="1920" height="1080">
+    <box label="ball" source="manual" occluded="0" xtl="738.01" ytl="353.82" xbr="768.97" ybr="381.06" z_order="0">
+    </box>
+  </image>
+</annotations>
