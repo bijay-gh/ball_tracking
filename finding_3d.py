@@ -14,7 +14,7 @@ ox = camera_params["intrinsic"]["ox"]
 oy = camera_params["intrinsic"]["oy"]
 
 # Function to calculate x, y, z coordinates of the ball in the camera coordinate system
-def calculate_coordinates(x_center, y_center, radius, ball_radius_mm=182):
+def calculate_coordinates(x_center, y_center, radius, ball_radius_mm=35.75):
     z = (fx * ball_radius_mm) / radius
     x = (x_center - ox) * z / fx
     y = (y_center - oy) * z / fy
