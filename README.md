@@ -24,9 +24,13 @@ On the smoothed 3D trajectory, the system automatically detects the **bounce poi
 If you use this project or its methodology in academic or applied work, please cite the associated paper:
 
 ```bibtex
-@article{ghimire_single_camera_cricket,
+@article{ghimire2026singlecamera,
   title   = {3D Ball Trajectory from a Single Camera: A Cost-Effective Ball Estimation Technique for Cricket},
   author  = {Ghimire, Bijaya and Mishra, Gunjan K. and Lamichhane, Badri Raj},
-  journal = {Preprint},
-  year    = {2025}
+  journal = {TechRxiv},
+  year    = {2026},
+  doi     = {10.36227/techrxiv.176761698.86519755},
+  note    = {Preprint},
+  url     = {https://www.techrxiv.org/doi/full/10.36227/techrxiv.176761698.86519755/v1}
 }
+
